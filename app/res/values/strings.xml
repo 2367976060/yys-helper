@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">阴阳师助手</string>
+    <string name="acc_label">手势辅助服务</string>
+    <string name="acc_desc">用于模拟点击与滑动，帮助完成重复性操作。仅在用户手动启动脚本时执行动作，不会在后台私自操作。</string>
+</resources>
